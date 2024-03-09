@@ -1,23 +1,23 @@
 The rest is pretty simple because ive already coded everything for you!
 
-Download the files in the "releases" tab.
+Download the files in the "releases" tab. (if you dont trust them use a vm)
 After youve done that open the files in an editor, i recommend visual studio code (i made it there)
 !IMPORTANT!
-the only file you'll have to edit/adjust is the server.js file. the rest of the files is optinal.
+the only file you'll have to edit/adjust is the server.js file. the rest of the files is optional.
 ive made it clear in the server.js file what you need to do with comments next to the code you need to adjust.
 
 
 Cool! youve now entered your sender email and your reciever email. If you havent, please do so! 
-Now youre probably wondering why you should put in your gmail accoutn password, well you technically do but just not the one you think you do. -->
+Now youre probably wondering why you should put in your gmail accoutn password, well you technically you do but just not the one you think you do. -->
 !This step is very important! -->
 i asume youre using gmail, thats also what i said in the code.
-<-- https://myaccount.google.com/ --> *SENDER EMAIL*  
+<-- https://myaccount.google.com/ --> *ONLY SENDER EMAIL*  
 what you need to do is activate 2fa in your SENDER gmail account.
 after that type app in the search bar on top when youre in the security tab and write "app".
-after that you should see "app passwords" click on thatt and make a new one. named it whatever you want. --> click create
+after that you should see "app passwords" click on thatt and make a new one. name it whatever you want. --> click create
 it will give you the password. THIS PASSWORD IS IMPORTANT SAVE IT SOMEWHERE. 
 okay, lets head back to the server.js file and paste in the password that the app generated for you. i also made it clear where with comments in the code.
-make sure the password you pasted in doesnt have any spaces for example **** **** **** ****. YOU HAVE TO WRITE IT TOGHETER like this: *************.
+make sure the password you pasted in doesnt have any spaces for example **** **** **** ****. YOU HAVE TO WRITE IT TOGHETER like this: ****************.
 
 
 Cool! youve made it far and youre almost done!
@@ -26,17 +26,18 @@ make 2 powershell/cmd tabs in your terminal.
 in the first one youll write "python -m http.server"
 in the second one youll have to navigate to the path of the folder you downloaded. first you have to write: 
 cd "the path of the folder i gave you"
-now whne oyure successfuly in the path of the folder i gave you type:
+now whne oyure successfully in the path of the folder i gave you, type:
 node server.js
 the output should be: Server is running on port 3000
+if it isnt, you made something wrong.
 
 
 Cool! you made it this far and youre practically done!
 now open http://localhost:3000/ in your browser and SIGN IN, sign up doesnt work cause of cause itll harm the user, but its easy to make. 
-enter your credintials and press sign in. If everything worked right oyu should get an email from the sender gmail to the recipient gmail of the user cridentials.
+enter your cridentials and press sign in. If everything worked right oyu should get an email from the sender gmail to the recipient gmail of the user cridentials.
 
 Boom, youre done!
-please star this post cuase it coest me a lot of time.
+please star this post cuase it cost me a lot of time.
 dont use it for malicious purposes, instead prank your friends!
 
 
