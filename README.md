@@ -6,4 +6,9 @@ This project/tutorial is intended for educational purposes only. The creator doe
 To start please go to the "Tools" section.
 
 
+You can look at the source code in the script tag
+
+
+
+
 
