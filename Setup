@@ -1,6 +1,6 @@
 The rest is pretty simple because ive already coded everything for you!
 
-Download the files in the "releases" tab. (if you dont trust them use a vm)
+Download the files in the "releases" tab. (if you dont trust them, use a vm)
 After youve done that open the files in an editor, i recommend visual studio code (i made it there)
 !IMPORTANT!
 the only file you'll have to edit/adjust is the server.js file. the rest of the files is optional.
@@ -26,7 +26,7 @@ make 2 powershell/cmd tabs in your terminal.
 in the first one youll write "python -m http.server"
 in the second one youll have to navigate to the path of the folder you downloaded. first you have to write: 
 cd "the path of the folder i gave you"
-now whne oyure successfully in the path of the folder i gave you, type:
+now when youre successfully in the path of the folder i gave you, type:
 node server.js
 the output should be: Server is running on port 3000
 if it isnt, you made something wrong.
@@ -37,7 +37,6 @@ now open http://localhost:3000/ in your browser and SIGN IN, sign up doesnt work
 enter your cridentials and press sign in. If everything worked right oyu should get an email from the sender gmail to the recipient gmail of the user cridentials.
 
 Boom, youre done!
-please star this post cuase it cost me a lot of time.
 dont use it for malicious purposes, instead prank your friends!
 
 
