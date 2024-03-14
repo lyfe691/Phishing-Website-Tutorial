@@ -11,7 +11,7 @@ Cool! youve now entered your sender email and your reciever email. If you havent
 Now youre probably wondering why you should put in your gmail accoutn password, well you technically do but just not the one you think you do(ill explain it). -->
 !This step is very important! -->
 i asume youre using gmail, thats also what i said in the code.
-<-- https://myaccount.google.com/ --> *ONLY SENDER EMAIL*  
+<--! https://myaccount.google.com/ --> *ONLY SENDER EMAIL*  
 what you need to do is activate 2fa in your SENDER gmail account.
 after that type app in the search bar on top when youre in the security tab and write "app".
 after that you should see "app passwords" click on thatt and make a new one. name it whatever you want. --> click create
