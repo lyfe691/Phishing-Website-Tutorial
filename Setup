@@ -21,10 +21,9 @@ make sure the password you pasted in doesnt have any spaces for example **** ***
 
 
 Cool! youve made it far and youre almost done!
-now this is why pythn is important!
-make 2 powershell/cmd tabs in your terminal.
-in the first one youll write "python -m http.server"
-in the second one youll have to navigate to the path of the folder you downloaded. first you have to write: 
+open your terminal and follow the instructions:
+You have to navigate to the path of the folder you downloaded. If you put the extracted folder on your desktop just right click the folder and press copy path. 
+First you have to write: 
 cd "the path of the folder i gave you"
 now when youre successfully in the path of the folder i gave you, type:
 node server.js
