@@ -1,13 +1,22 @@
 In order for you to create the phishing you need to install nodejs! --> [install nodejs](https://nodejs.org/en (LTS)) <--
 **!When setting it up please checkmark!:**
+
 *"Automatically install the necessary tools. Note that this will also install chocolately. The Script will pop up in a new window after the installation completes."*
+
 Additionally install git.
+
 Great! after you've done that you need to enter this in your cmd/powershell whatever:
 
 ```bash
 npm install nodemailer
+```
+```bash
 npm install express
+```
+```bash
 npm install cors
+```
+```bash
 npm install express body-parser nodemailer cors
 ```
 
