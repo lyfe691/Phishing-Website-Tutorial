@@ -2,7 +2,9 @@ The rest is pretty simple because ive already coded everything for you!
 
 Download the files in the "releases" tab. (if you dont trust them, use a vm)
 After youve done that open the files in an editor, i recommend visual studio code (i made it there)
+
 **!IMPORTANT!**
+
 the only file you'll have to edit/adjust is the server.js file. the rest of the files is optional.
 ive made it clear in the server.js file what you need to do with comments next to the code you need to adjust.
 
