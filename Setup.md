@@ -1,6 +1,6 @@
 The rest is pretty simple because ive already coded everything for you!
 
-Download the files in the "releases" tab. (if you dont trust them, use a vm)
+Download the files [here](https://github.com/lyfe691/Phishing-Website-Tutorial/releases/tag/script). If you dont trust them, you can look at the source code [here](https://github.com/lyfe691/Phishing-Website-Tutorial/commit/891db114bfee84505c089a6e4f5aa09e5d5b6310)
 After youve done that open the files in an editor, i recommend visual studio code (i made it there)
 
 **!IMPORTANT!**
