@@ -10,39 +10,41 @@ ive made it clear in the server.js file what you need to do with comments next t
 Cool! youve now entered your sender email and your reciever email. If you havent, please do so! 
 Now youre probably wondering why you should put in your gmail accoutn password, well you technically do but just not the one you think you do(ill explain it). -->
 
-**!This step is very important! -->**
+**This step is very important -->**
 
-i asume youre using gmail, thats also what i said in the code.
+I asume youre using gmail, thats also what i said in the code.
 <--! https://myaccount.google.com/ --> *ONLY SENDER EMAIL*  
-what you need to do is activate 2fa in your SENDER gmail account.
-after that type app in the search bar on top when youre in the security tab and write "app".
-after that you should see "app passwords" click on thatt and make a new one. name it whatever you want. --> click create
-it will give you the password. **THIS PASSWORD IS IMPORTANT SAVE IT SOMEWHERE.** 
+What you need to do is activate 2fa in your SENDER gmail account.
+after that type app in the search bar on top when youre in the security tab and write *"app"*.
+after that you should see *"app passwords"* click on that and make a new one, name it whatever you want. --> **click "create"**
+
+It will give you the password. **THIS PASSWORD IS IMPORTANT SAVE IT SOMEWHERE.** 
 okay, lets head back to the server.js file and paste in the password that the app generated for you. i also made it clear where with comments in the code.
-make sure the password you pasted in doesnt have any spaces for example **** **** **** ****. YOU HAVE TO WRITE IT TOGHETER like this: ****************.
+make sure the password you pasted in doesnt have any spaces for example: ```**** **** **** ****```. **YOU HAVE TO WRITE IT TOGETHER** like this: ```****************```.
 
 
 Cool! youve made it far and youre almost done!
+
 open your terminal and follow the instructions:
 You have to navigate to the path of the folder you downloaded. If you put the extracted folder on your desktop just right click the folder and click copy path. 
 First you have to write: 
 ```bash
-cd "the path of the folder i gave you"
+cd "path/to/the/folder/I/gave/you"
 ```
 now when youre successfully in the path of the folder i gave you, type:
 ```bash
 node server.js
 ```
-the output should be: Server is running on port 3000
+the output should be: ```Server is running on port 3000```
 if it isnt, you made something wrong.
 
 
 Cool! you made it this far and youre practically done!
 now open ```http://localhost:3000/``` in your browser and SIGN IN, sign up doesnt work cause of cause itll harm the user, but its easy to make. 
-enter your cridentials and press sign in. If everything worked right oyu should get an email from the sender gmail to the recipient gmail of the user cridentials.
+enter your cridentials and press sign in. If everything worked right oyu should get an email from the sender gmail to the recipient gmail of the users input/credentials.
 
 Boom, youre done!
 Obviously this wont work like youd want it to work since it would be unethical, however, it gives you the idea.
-dont use it for malicious purposes, instead prank your friends!
+Dont use it for malicious purposes, instead, prank your friends!
 
 
