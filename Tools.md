@@ -1,5 +1,6 @@
 In order for you to create the phishing you need to install nodejs! --> [install nodejs](https://nodejs.org/en (LTS)) <--
-**!When setting it up please checkmark!:**
+
+**When setting it up please checkmark:**
 
 *"Automatically install the necessary tools. Note that this will also install chocolately. The Script will pop up in a new window after the installation completes."*
 
