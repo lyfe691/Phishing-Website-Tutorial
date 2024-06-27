@@ -1,4 +1,4 @@
-In order for you to create the phishing you need to install nodejs! --> [install nodejs](https://nodejs.org/en (LTS)) <--
+In order for you to create the phishing you need to install nodejs! [install nodejs](https://nodejs.org/en (LTS)) 
 
 **When setting it up please checkmark:**
 
